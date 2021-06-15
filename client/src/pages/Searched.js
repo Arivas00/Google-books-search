@@ -7,6 +7,7 @@ class Searched extends Component {
   render() {
     return (
       <div>
+        <br></br>
         <Header />
           Searched Page
       </div>
