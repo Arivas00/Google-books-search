@@ -1,7 +1,7 @@
 import React from "react";
-import { Navbar } from "react-bootstrap";
+import Navbar from 'react-bootstrap/Navbar';
 
-export default function Navbar() {
+export default function NavbarComp() {
   return (
     <div>
       <Navbar bg="dark" variant="dark">

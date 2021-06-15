@@ -1,16 +1,16 @@
 import React, { Component } from "react";
 import { Container, Card, Row, Col, Form } from 'react-bootstrap';
 
-class Saved extends Component {
+class Searched extends Component {
 
 
   render() {
     return (
-        <div>
-          Saved Page
-        </div>
+      <div>
+          Searched Page
+      </div>
     )
   }
 }
 
-export default Saved;
+export default Searched;
